@@ -1,0 +1,2 @@
+crewai==1.0.0
+# Add any other dependencies your project may require here.
