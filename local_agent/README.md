@@ -1,5 +1,3 @@
-﻿# local_agent
-Markdown
 # Local CrewAI Research Agent
 
 A simple multi-agent automation script built using **CrewAI** and Python to research topics, analyze market trends, and generate structured content.
@@ -15,9 +13,8 @@ A simple multi-agent automation script built using **CrewAI** and Python to rese
 
 ## 📦 Installation & Setup
 
-1. **Clone or navigate to the project directory:**
-   ```powershell
-   cd C:\Users\LEGION\Desktop\agentt
+1.Clone or navigate to the project directory:
+
 Activate your virtual environment:
 
 PowerShell
